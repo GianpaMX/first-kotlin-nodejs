@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Juan Pablo \"Gianpa\" Villa",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "kotlin": "^1.2.21"
+  }
 }
