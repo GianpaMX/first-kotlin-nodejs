@@ -7,4 +7,6 @@ The book I'm reading: Kotlin Blueprints: [A practical guide to building industry
 
 Slides: https://docs.google.com/presentation/d/1IgLQjTU_sIePteZueJ6ekZUXGIEk8KjusbBf8i_GlPM/edit?usp=sharing
 
+Lightning Talk (spanish): https://www.facebook.com/gdljs/videos/1940827626246014/
+
 Thank you
